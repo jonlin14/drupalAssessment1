@@ -2,7 +2,7 @@
 Jonathan Lin
 
 ##Information
-Mysql User = Root
+Mysql User = root
 <br>
 Mysql Password = mynewpassword
 <br>
