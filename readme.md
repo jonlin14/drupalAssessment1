@@ -4,7 +4,7 @@ Jonathan Lin
 ##Information
 Mysql User = Root
 Mysql Password = mynewpassword
-Drupal Accoutn = admin
+Drupal Accout = admin
 Drupal Password = admin
 
 ##Date
