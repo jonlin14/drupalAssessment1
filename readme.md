@@ -6,7 +6,7 @@ Mysql User = Root
 <br>
 Mysql Password = mynewpassword
 <br>
-Drupal Accout = admin
+Drupal Account = admin
 <br>
 Drupal Password = admin
 
@@ -15,7 +15,7 @@ May 15, 2015
 
 
 ##Description
-This application is a website built in Drupal. It serves as a site for book reviews to be palced by reviewers.
+This application is a website built in Drupal. It serves as a site for book reviews to be placed by reviewers.
 
 
 ##Technologies Used
