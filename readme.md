@@ -29,7 +29,8 @@ Drush
 
 
 ##Use and Editing
-To use the app, download the files from github. Point MAMP at the root of the drupal installation and go to localhost:8888
+To use the app, download the files from github. Point MAMP at the root of the drupal installation and go to localhost:8888. You will need to import the database. Go to phpMyAdmin, choose import and then choose file. Go to the Drupal project directory then navigate to db-backups in sites. Click on the database you want to import and click go.
+
 
 
 ##Copyright (c) Jonathan Lin
